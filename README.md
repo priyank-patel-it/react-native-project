@@ -1,13 +1,16 @@
 # React-Native Ecommerce App :bomb:
 # Hi, I am Priyank Patel! 👋
 
-## setup
+## How to run
 
-- clone the repo `git clone`
-- install all dependencies `npm install`
-- run the app `expo start`
+* clone this Repository by `git clone https://github.com/priyank-patel-it/react-native-project.git`.
+* Change directory `cd react-native-project`
+* Make sure you have expo-cli installed. If not run `npm install -g expo-cli`
+* Install the dependencies using `npm install`
+* Run `npm start`
+* Then type in terminal `a` to run on android emulator, `i` to run on ios simulator.
 
-[![made with expo](https://img.shields.io/badge/MADE%20WITH%20EXPO-000.svg?style=for-the-badge&logo=expo&labelColor=4630eb&logoWidth=20)](https://expo.io/@ace26/projects/react-native-fashion) [![supports iOS and Android](https://img.shields.io/badge/Platforms-Native-4630EB.svg?style=for-the-badge&logo=EXPO&labelColor=000&logoColor=fff)](https://github.com/expo/expo) [![supports web](https://img.shields.io/badge/Platforms-Web-4630EB.svg?style=for-the-badge&logo=EXPO&labelColor=000&logoColor=fff)](https://github.com/expo/expo)
+[![made with expo](https://img.shields.io/badge/MADE%20WITH%20EXPO-000.svg?style=for-the-badge&logo=expo&labelColor=4630eb&logoWidth=20)](https://expo.io/@ace26/projects/react-native-fashion) [![supports iOS and Android](https://img.shields.io/badge/Platforms-Native-4630EB.svg?style=for-the-badge&logo=EXPO&labelColor=000&logoColor=fff)](https://github.com/expo/expo) [![](https://img.shields.io/badge/IDE-Visual_Studio_Code-red?style=for-the-badge&logo=visual-studio-code)](https://code.visualstudio.com/ "Visual Studio Code")
 
 ## Features
 - authentication screen to log in or sign up.
