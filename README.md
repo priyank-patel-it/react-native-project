@@ -1,4 +1,4 @@
-# React-Native Ecommerce App :bomb:
+# React-Native Ecommerce App 🛒
 # Hi, I am Priyank Patel! 👋
 
 ## How to run
